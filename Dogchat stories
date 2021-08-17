@@ -1,0 +1,19 @@
+Sign-Up Page
+  A dog will have to click on the sign-up page to make an account
+  The dog will then enter their first and last name, email, birthday, username, and password
+  When the sign-up is complete the dog will be brought to their feed which will be empty
+
+Friending another dog
+  Dogs can search for other dogs and on their profile page the original dog can send a friend request to the other dog
+  The dog that was sent a friend request can see the request on their friend request page
+  The dog can choose to accept or decline the request or they can block the other dog
+
+Searching for another dog
+  The user can search for another dog by typing their name or username into the search bar
+  That will take the user to the dog’s profile page
+  The user can see the dog’s posts and send a friend request to them, if they are already friends then that will be changed to message this dog
+
+New Views
+  A dogs profile page
+  A sign-up page
+  A search page (for when the user searches for a dog but doesn’t choose a specific one from the search tab)

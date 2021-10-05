@@ -1,0 +1,21 @@
+Hiking Buddy: A social media app to find information on hikes and find a group to hike with!
+
+
+
+
+Hiking Buddy Stories
+  
+  -User can see hikes in their area and click on them
+  -When clicked on information about the hike will show up like difficulty, length, weather conditions, trail conditions (Most info will be crowd sourced through reviewing a hike)
+  -Users can join a group on a hike
+  -Users can review hikes
+  -Users can post to their profile about their hikes (Pictures, Videos, and Text)
+  -Users must make a profile and sign in
+
+Hiking Buddy Views
+  -Login Page
+  -Find a Hike Page
+  -Home Page
+  -Hike Info Page
+  -Hike Review Page
+  -Profile Page
